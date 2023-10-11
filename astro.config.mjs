@@ -4,7 +4,7 @@ import { defineConfig } from 'astro/config';
 
 
 export default defineConfig({
-  site: 'https://ruyue-liu-alpha/astroBlog.github.io',
-  base: '/my-repo',
+  site: 'https://ruyue-liu-alpha.github.io',
+  base: '/',
 })
 
